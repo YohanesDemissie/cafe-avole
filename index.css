@@ -1,0 +1,38 @@
+nav{
+  padding: 1%;
+}
+
+ img{
+   width: 100%;
+ }
+
+li{
+  display: inline-block;
+  list-style: none;
+  margin-right: 10%;
+}
+
+header{
+  
+font-size: 150%;
+/* background: url("https://wallpaperscraft.com/image/coffee_beans_spilled_macro_71016_3840x1200.jpg"); */
+background-repeat: no-repeat;
+
+background-position: center center;
+text-align:center;
+margin:auto;
+padding:0;
+          /* -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover; */
+  color: white;
+}
+
+body{
+  background-color: tan;
+}
+
+footer{
+  background-color: sienna;
+}
