@@ -13,3 +13,9 @@ https://nekoseattle.com/
 #Checkout the merchandise menu on this site
 https://www.fontecoffee.com/cafes/
 
+
+title as sideleine
+content parellel to it with a h1 tag as first word or general centered titile for each P tag
+
+#media query resource
+https://dzone.com/articles/using-csshtml-make-responsive
