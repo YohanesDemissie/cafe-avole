@@ -23,7 +23,7 @@ https://www.doordash.com/store/cafe-avole-seattle-125413/
 #EGG STEAK SANDWICH
 https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/29027131_1505738902857863_8669146910063329280_n.jpg?_nc_cat=0&oh=1aea97efabc7b99588bbcc4b76c4f1d5&oe=5B69C213
 
-#2016 Business of the year Plack 
+#2016 Business of the year Plack
 https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/12871487_947076818724077_8680485080673318314_n.jpg?_nc_cat=0&oh=94f553e60ca277bb93ff1876b316e0ca&oe=5B5A946C
 
 #MOUTH WATERING THIPS PININI
@@ -34,4 +34,7 @@ https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/12801476_896452570453169_849731812
 
 #Small Tacos
 https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/12821467_896452533786506_850313177172060846_n.jpg?_nc_cat=0&oh=8851fb66f114da0de4499503ae6ed003&oe=5B5D1C05
+
+#Image Courasal/animation/slide show Resource
+https://www.w3schools.com/w3css/w3css_slideshow.asp
 

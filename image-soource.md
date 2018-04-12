@@ -28,3 +28,6 @@ http://www.seattleglobalist.com/wp-content/uploads/2016/03/031116-CafeAvole-Tama
 
 #WIDE LENSE COFFE IMNAGE
 https://wallpaperscraft.com/image/coffee_beans_spilled_macro_71016_3840x1200.jpg
+
+#Image Courasal/animation/slide show Resource
+https://www.w3schools.com/w3css/w3css_slideshow.asp
