@@ -30,7 +30,7 @@ function autoSlide() {
   imagelist[index - 1].style.display = "block";
   index++;
 
-  setTimeout(autoSlide, 2000);
+  setTimeout(autoSlide, 3000);
 }
 // var slideIndex = 1;
 // showDivs(slideIndex);

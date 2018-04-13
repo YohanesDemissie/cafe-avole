@@ -17,6 +17,16 @@
     height: 250%;
   }
 
+  .home-icon{
+    margin-left: 0px;
+    width: 20%;
+    height: 20%;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
   .home-page-image{
     /* float: right; */
     margin-left: 2%;
@@ -25,7 +35,19 @@
     margin-bottom: 1px;
   }
 
+  .started{
+    width: 80%;
+    height: 80%;
+    margin-left: 90px;
+  }
+
+  .uber-eats {
+  padding-left: 40%;
+  font-size: 250%;
+  }
+
   li{
+    vertical-align: 40px;
     display: inline-block;
     list-style: none;
     margin-right: 2%;
@@ -47,13 +69,15 @@
   }
 
   h1{
-    font-size: 400%;
+    font-family: 'Tangerine', cursive;
+    font-weight: 800;
+    font-size: 600%;
     text-align: center;
     margin: 1%;
   }
 
   h4{
-    font-size: 300%;
+    font-size: 200%;
     text-align: center;
     margin: 1%;
   }
@@ -97,6 +121,11 @@
     width: 65%;
     height: 65%;
     margin-bottom: 1px;
+  }
+
+  .uber-eats {
+  padding-left: 40%;
+  font-size: 250%;
   }
 
   #menu-photos {
@@ -148,15 +177,47 @@
     height: 250%;
   }
 
+    .uber-eats {
+  padding-left: 40%;
+ 
+font-size: 250%;}
+
   .home-page-image{
     float: right;
     margin-left: 2%;
-    width: 55%;
-    height: 55%;
+    width: 45%;
+    height: 45%;
     margin-bottom: 1px;
   }
 
+   .home-icon{
+    display: inline-flex;
+    margin-left: 0px;
+    width: 20%;
+    height: 20%;
+
+  }
+
+  nav{
+    width: 120%;
+  }
+
+  .first-list{
+    margin-left: 0%;
+    padding-left: 0%;
+  }
+
+  .last-list{
+    margin-right: 50px;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
   li{
+    vertical-align: 30px;
     display: inline-block;
     list-style: none;
     margin-right: 2%;
@@ -179,6 +240,8 @@
 
   h1{
     /* font-size: 100%; */
+    font-family: 'Tangerine', cursive;
+    font-weight: 700px;
     text-align: center;
     margin: 1%;
   }

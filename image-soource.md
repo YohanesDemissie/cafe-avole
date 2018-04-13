@@ -31,3 +31,7 @@ https://wallpaperscraft.com/image/coffee_beans_spilled_macro_71016_3840x1200.jpg
 
 #Image Courasal/animation/slide show Resource
 https://www.w3schools.com/w3css/w3css_slideshow.asp
+
+#YouTube Great Carousal with Click DEMO
+https://www.youtube.com/watch?v=hQUd_KcGhJ4&feature=youtu.be
+
