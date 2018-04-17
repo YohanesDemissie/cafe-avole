@@ -21,3 +21,9 @@ content parellel to it with a h1 tag as first word or general centered titile fo
 https://dzone.com/articles/using-csshtml-make-responsive
 
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+
+##############TODO#########
+Group all first names
+Group all last names
+Group all ages

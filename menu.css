@@ -1,0 +1,23 @@
+th{
+  font-size: 200%;
+  /* padding-left: 40%; */
+  padding-right: 40px;
+}
+
+.hidden-cell{
+  padding: 0px;
+  padding: 0%;
+  border: none;
+  display: hidden;
+}
+td{
+  /* text-align: center; */
+  padding-right: 10px;
+  margin-left: 0px;
+  border-left: 0px;
+}
+
+.first-table{
+  padding-top: 5%;
+}
+
