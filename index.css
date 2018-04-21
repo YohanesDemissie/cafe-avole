@@ -102,12 +102,6 @@
   .gifts-image{
     margin-left: 35%;
   }
-
-  footer{
-    float: none;
-    background-color: sienna;
-  }
-
 }
 
 /* BIG TABLET/ SMALL LAPTOP SIZED MEDIA QUERY */
@@ -196,8 +190,8 @@ font-size: 250%;}
   .home-page-image{
     float: right;
     margin-left: 2%;
-    width: 45%;
-    height: 45%;
+    width: 25%;
+    height: 25%;
     margin-bottom: 1px;
   }
 
@@ -275,8 +269,15 @@ font-size: 250%;}
     margin-bottom: 28%;
   }
 
-  footer{
+  .icons{
+    width: 8%;
     float: none;
-    background-color: sienna;
+    margin-left: 20%;
+    margin-top: 5px; 
+  }
+
+  footer{
+    background: sienna;
+    width: 100%;
   }
 }
