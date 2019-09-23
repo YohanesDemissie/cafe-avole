@@ -102,6 +102,19 @@
   .gifts-image{
     margin-left: 35%;
   }
+
+  .footer {
+    width: 1px;
+    display: flex;
+  }
+
+  .icons{
+    justify-content: center;
+    width: 10px;
+    display: inline-block;
+    padding-top: 200px;
+
+  }
 }
 
 /* BIG TABLET/ SMALL LAPTOP SIZED MEDIA QUERY */
@@ -115,6 +128,10 @@
     width: 85%;
     height: 85%;
     margin-bottom: 1px;
+  }
+
+  .footer {
+    width: 2px;
   }
 }
 
@@ -270,7 +287,7 @@ font-size: 250%;}
   }
 
   .icons{
-    width: 8%;
+    /* width: 1%; */
     float: none;
     margin-left: 20%;
     margin-top: 5px; 
