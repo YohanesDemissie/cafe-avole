@@ -12,6 +12,15 @@ nav{
     margin-top: 1%;
   }
 
+  .first-list{
+    margin-left: 0%;
+    padding-left: 0%;
+  }
+
+   .last-list{
+    margin-right: 50px;
+  }
+
   .header-image{
     height: 500px !important;
     width: 100%;
@@ -100,8 +109,11 @@ nav{
     margin-bottom: 28%;
   }
 
-  .gifts-image{
-    margin-left: 35%;
+  .souvenirs-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 
   footer {
