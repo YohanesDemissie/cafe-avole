@@ -45,8 +45,9 @@ nav{
   }
 
   .uber-eats {
-  padding-left: 40%;
+  /* padding-left: 40%; */
   font-size: 250%;
+  text-decoration: underline;
   }
 
   li{
