@@ -116,6 +116,10 @@ nav{
     width: 50%;
   }
 
+  .gifts-image-one {
+    width: 750px;
+  }
+
   footer {
     /* padding-top: 1px; */
     background-color: chocolate;
