@@ -147,7 +147,11 @@ nav{
   }
 
   .gifts-image-one {
-    width: 750px;
+    width: 100%;
+  }
+
+  .gifts-image {
+    width: 100%;
   }
   
   .gifts-break-line{
