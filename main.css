@@ -18,6 +18,10 @@ nav{
     padding-left: 0%;
   }
 
+  .home-link {
+    display: none;
+  }
+
    .last-list{
     margin-right: 50px;
   }
@@ -200,3 +204,32 @@ nav{
   .about-content {
     margin-bottom: 30px;
   }
+
+@media only screen and (max-width: 900px) {
+  li {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+
+  .home-link {
+    display: block;
+  }
+
+  .home-icon {
+    display: none;
+  }
+
+  ul {
+    width: 20px;
+  }
+
+  .home-icon{
+    margin-bottom: 20px;
+  }
+
+    .last-list{
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+}
