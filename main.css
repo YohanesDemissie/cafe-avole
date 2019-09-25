@@ -208,6 +208,7 @@ nav{
 @media only screen and (max-width: 900px) {
   .center {
     width: 100%;
+    margin-bottom: 0px;
   }
   
   nav>li {
@@ -260,6 +261,18 @@ nav{
       font-size: 20px;
       text-align: center;
       margin: 0px;
+      width: 100%;
+    }
+
+    .started {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    }
+
+    .about-break-line{
+      margin-left: auto;
+      margin-right: auto;
       width: 100%;
     }
 }
