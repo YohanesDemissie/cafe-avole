@@ -1,0 +1,278 @@
+div{
+    margin: auto;
+    width: 80%;
+  }
+
+.doobie-content {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+nav{
+    margin-top: 1%;
+  }
+
+  .first-list{
+    margin-left: 0%;
+    padding-left: 0%;
+  }
+
+  .home-link {
+    display: none;
+  }
+
+   .last-list{
+    margin-right: 50px;
+  }
+
+  .header-image{
+    height: 500px !important;
+    width: 100%;
+  }
+
+  .home-icon{
+    border-bottom-left-radius: 400%;
+    border-bottom-right-radius: 400%;
+    border-top-left-radius: 400%;
+    border-top-right-radius: 400%;
+    margin-left: 0px;
+    width: 7%;
+    height: 7%;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  .home-page-image{
+    margin-left: 2%;
+    width: 35%;
+    height: 35%;
+    margin-bottom: 1px;
+  }
+
+  .home-page-content {
+    width: 40%;
+    margin-left: 10%;
+    text-align: left;
+    margin-top: 0px;
+  }
+
+  .started{
+    border-radius: 20px;
+    width: 80%;
+    height: 80%;
+    margin-left: 90px;
+  }
+
+  .uber-eats {
+  /* padding-left: 40%; */
+  font-size: 250%;
+  text-decoration: underline;
+  }
+
+  li{
+    vertical-align: 40px;
+    display: inline-block;
+    list-style: none;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+
+  header{
+    font-size: 150%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align:center;
+    margin:auto;
+    padding:0;
+    color: white;
+            /* -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover; */
+  }
+
+  h1{
+    font-family: 'Tangerine', cursive;
+    font-weight: 800;
+    font-size: 600%;
+    text-align: center;
+    margin: 1%;
+  }
+
+  .cafe-avole{
+    font-family: 'Tangerine', cursive;
+    font-weight: 800;
+    font-size: 600%;
+    text-align: center;
+    margin: 1%;
+  }
+
+  hr{
+    width: 100px;
+    color: black;
+    margin-bottom: 50px;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  h4{
+    font-size: 200%;
+    text-align: center;
+    margin: 1%;
+  }
+
+  body{
+    background-color: tan;
+  }
+
+  p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 28%;
+  }
+
+  .gift-title{
+    font-family: 'Tangerine', cursive;
+    font-weight: 800;
+    font-size: 450%;
+    text-align: center;
+    margin: 1%;
+  }
+
+  .souvenirs-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .gifts-image-one {
+    width: 100%;
+  }
+
+  .gifts-image {
+    width: 100%;
+  }
+  
+  .gifts-break-line{
+    width: 350px;
+    margin-bottom: 80px;
+    margin-top: 50px;
+    height: 0px;
+    border: none;
+    border-top: 5px solid white;
+  }
+
+  footer {
+    /* padding-top: 1px; */
+    background-color: chocolate;
+  }
+
+  .footer {
+    margin-left: 33%;
+    width: 33%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    background-color: chocolate;
+  }
+
+  .icons{
+     height: 50px;
+  }
+
+  /* HOURS AND LOCATIONS */
+  .address{
+    margin-bottom: 40px;
+  }
+
+  .map {
+    display: flex;
+    justify-content: center;
+  }
+
+  /* about page styling */
+  .about-break-line{
+    margin-top: 20px;
+  }
+
+  .about-content {
+    margin-bottom: 30px;
+  }
+
+@media only screen and (max-width: 900px) {
+  .center {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  
+  nav>li {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+
+  .header-image {
+      width: 100%;
+      height: 300px !important;
+    }
+
+  .home-link {
+    display: block;
+  }
+
+  .home-icon {
+    display: none;
+  }
+
+  nav>ul {
+    width: 20px;
+  }
+
+  .home-icon{
+    margin-bottom: 20px;
+  }
+
+    .last-list{
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+
+    h1 {
+      font-size: 50px;
+    }
+
+    .doobie-content{
+      font-size: 20px;
+      display: block;
+    }
+
+    .home-page-image {
+      width: 100%;
+      margin-bottom: 60px;
+    }
+
+    .home-page-content{
+      font-size: 20px;
+      text-align: center;
+      margin: 0px;
+      width: 100%;
+    }
+
+    .started {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    }
+
+    .about-break-line{
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+    }
+}
