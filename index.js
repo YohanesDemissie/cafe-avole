@@ -1,4 +1,4 @@
-// // use $(document).ready function to
+ // // use $(document).ready function to
 // // make sure that the code executes only after the document's
 // // DOM has been loaded into the browser.
 // $(document).ready(function () {
