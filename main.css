@@ -178,7 +178,6 @@ nav{
     width: 33%;
     display: flex;
     justify-content: space-between;
-    margin-top: 80px;
     background-color: chocolate;
   }
 
@@ -288,5 +287,9 @@ nav{
 
     .gift-title{
       font-size: 50px;
+    }
+
+    .footer {
+      margin-top: 80px;
     }
 }
