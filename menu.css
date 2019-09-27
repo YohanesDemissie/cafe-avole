@@ -1,12 +1,18 @@
 #menu-photos {
   width: 100%;
   height: 450px;
-  /* border: 1px solid black; */
-  margin: 0 auto;
+  /* margin: 0 auto;
   position: relative;
   margin-left: auto;
-  margin-right: auto;
-  /* overflow: none; */
+  margin-right: auto; */
+
+
+  display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  
 }
 
   #menu-photos>img{
