@@ -197,10 +197,9 @@ nav{
 
   /* about page styling */
   .about-break-line{
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
+        margin: auto;
+        max-width: 100%;
+        display: grid;
   }
 
   .about-content {
