@@ -5,6 +5,7 @@ div{
   }
 
 .doobie-content {
+  width: 95%;
   margin-top: 50px;
   display: flex;
   justify-content: center;
@@ -134,7 +135,6 @@ nav{
   p{
     text-align: center;
     font-size: 30px;
-    margin-bottom: 28%;
   }
 
   .gift-title{
@@ -293,4 +293,26 @@ nav{
     .footer {
       margin-top: 80px;
     }
+}
+
+@media only screen and (min-width: 900px) {
+  .home-page-content {
+    font-size: 30px;
+    /* margin-left: 5%; */
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .home-page-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  .home-page-content {
+    font-size: 25px;
+  }
 }
