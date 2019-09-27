@@ -1,6 +1,7 @@
 div{
     margin: auto;
     width: 80%;
+    height: 90%;
   }
 
 .doobie-content {
@@ -171,6 +172,7 @@ nav{
   footer {
     /* padding-top: 1px; */
     background-color: chocolate;
+    margin-top: 10%;
   }
 
   .footer {
